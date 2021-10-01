@@ -1,4 +1,4 @@
-## Here is PengPeng from Taiwan
+## Hi, Here is PengPeng
 
 I'm a founder, lecturer with psychological and technical background, especially major in software and web development.
 
