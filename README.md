@@ -2,7 +2,7 @@
 
 I'm a founder, lecturer with psychological and technical background, especially major in software and web development.
 
-Currently, I focus on two major projects. Feel free to contact me if you have any ideas I can take part.
+Currently, I focus on two projects mentioned below. Feel free to contact me if you have any ideas I can take part.
 
 ### W-Components
 
