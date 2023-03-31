@@ -10,11 +10,11 @@ W-Components is a front-end library based on Web Components. We look for providi
 
 Welcome to join us by visiting [W-Components Repository](https://github.com/Padax/w-components) in GitHub.
 
-### WeHelp Bootcamp
+### WeHelp
 
-WeHelp Bootcamp is a web development training program for anyone who eager to be a software engineer. Trainees in this bootcamp have to build an e-commerce website by self, learn problem solving by getting over a lot of issues with limited instructions.
+WeHelp is a community for software engineers. We support a web development coding bootcamp for anyone who eager to be a software engineer. Trainees in this bootcamp have to build an e-commerce website by self, learn problem solving by getting over a lot of issues with limited instructions.
 
-Learn more about [WeHelp Bootcamp](https://training.pada-x.com/wehelp/).
+Learn more about [WeHelp](https://wehelp.tw/).
 
 ### Contact Me
 
